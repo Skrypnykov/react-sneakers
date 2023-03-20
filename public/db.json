@@ -1,0 +1,108 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "Чоловічі кросівки Nike Blazer Mid Suede",
+      "imageUrl": "/img/sneakers/1.jpg",
+      "price": 2899
+    },
+    {
+      "id": "2",
+      "title": "Чоловічі кросівки Nike Air Max 270",
+      "imageUrl": "/img/sneakers/2.jpg",
+      "price": 3189
+    },
+    {
+      "id": "3",
+      "title": "Чоловічі кросівки Nike Blazer Mid Suede",
+      "imageUrl": "/img/sneakers/3.jpg",
+      "price": 3099
+    },
+    {
+      "id": "4",
+      "title": "Кроссовки Puma X Aka Boku Future Rider",
+      "imageUrl": "/img/sneakers/4.jpg",
+      "price": 2799
+    },
+    {
+      "id": "5",
+      "title": "Чоловічі кросівки Under Armour Curry 8",
+      "imageUrl": "/img/sneakers/5.jpg",
+      "price": 2289
+    },
+    {
+      "id": "6",
+      "title": "Чоловічі кросівки Nike Kyrie 7",
+      "imageUrl": "/img/sneakers/6.jpg",
+      "price": 2999
+    },
+    {
+      "id": "7",
+      "title": "Чоловічі кросівки Jordan Air Jordan 11",
+      "imageUrl": "/img/sneakers/7.jpg",
+      "price": 1899
+    },
+    {
+      "id": "8",
+      "title": "Чоловічі кросівки Nike LeBron XVIII",
+      "imageUrl": "/img/sneakers/8.jpg",
+      "price": 2399
+    },
+    {
+      "id": "9",
+      "title": "Чоловічі кросівки Nike Lebron XVIII Low",
+      "imageUrl": "/img/sneakers/9.jpg",
+      "price": 2690
+    },
+    {
+      "id": "10",
+      "title": "Чоловічі кросівки Nike Blazer Mid Suede",
+      "imageUrl": "/img/sneakers/10.jpg",
+      "price": 2059
+    },
+    {
+      "id": "11",
+      "title": "Кроссовки Puma X Aka Boku Future Rider",
+      "imageUrl": "/img/sneakers/11.jpg",
+      "price": 1799
+    },
+    {
+      "id": "12",
+      "title": "Чоловічі кросівки Nike Kyrie Flytrap IV",
+      "imageUrl": "/img/sneakers/12.jpg",
+      "price": 3339
+    }
+  ],
+  "cart": [
+    {
+      "id": "7",
+      "parentId": "7",
+      "title": "Чоловічі кросівки Jordan Air Jordan 11",
+      "imageUrl": "/img/sneakers/7.jpg",
+      "price": 1899
+    }
+  ],
+  "favorites": [
+    {
+      "id": "1",
+      "parentId": "1",
+      "title": "Чоловічі кросівки Nike Blazer Mid Suede",
+      "imageUrl": "/img/sneakers/1.jpg",
+      "price": 2899
+    }
+  ],
+  "orders": [
+    {
+      "order": [
+        {
+          "id": "2",
+          "parentId": "2",
+          "title": "Чоловічі кросівки Nike Air Max 270",
+          "imageUrl": "/img/sneakers/2.jpg",
+          "price": 3189
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
